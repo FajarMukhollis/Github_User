@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Github App</string>
+    <string name="splash" translatable="false">GITHUB</string>
+
+    <string name="username" translatable="true">Username</string>
+    <string name="name" translatable="true">Name</string>
+    <string name="location" translatable="true">Location</string>
+    <string name="company" translatable="true">Company</string>
+    <string name="repository" translatable="true">Repository</string>
+    <string name="followers" translatable="true">Followers</string>
+    <string name="following" translatable="true">Following</string>
+
+    <string name="search_message" translatable="true">Find User</string>
+    <string name="search_hint" translatable="true">Enter Username</string>
+    <string name="user_not_found" translatable="true">User Not Found :(</string>
+    <string name="followers_not_found" translatable="true">%s Has No Followers</string>
+    <string name="following_not_found" translatable="true">%s Does Not Follow Anyone</string>
+    <string name="languages" translatable="true">Languages</string>
+    <string name="favorite" translatable="true">Favorite</string>
+    <string name="settings" translatable="true">Settings</string>
+    <string name="dark_mode" translatable="true">Dark Mode</string>
+    <string name="icn_favorite" translatable="false">Favorite Icon</string>
+    <string name="search_icon" translatable="false">Search Icon</string>
+    <string name="img_user" translatable="false">Image User</string>
+</resources>
